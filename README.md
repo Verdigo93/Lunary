@@ -1,2 +1,2 @@
 # Lunary
-NFT + AI платформа на базі місячної естетики
+AI-powered NFT marketplace with a lunar touch.
